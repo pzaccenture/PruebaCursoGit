@@ -1,1 +1,0 @@
-git clean -f  borro lo del stage
